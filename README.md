@@ -1,6 +1,8 @@
 # MHC_DOS
 
-Herein you can find the code used for analysis and plotting for [this paper](link_eventually) (that will eventually be a link to the paper).
+Herein you can find the code used for analysis and plotting for [this paper](https://aip.scitation.org/doi/full/10.1063/5.0023611).
+
+**Note that future development of this codebase will take place [here](https://github.com/BattModels/ElectrochemicalKinetics.jl); this repo is considered an archival companion to the published manuscript!**
 
 ## Here for the data viz?
 You can view it in nbviewer [here](https://nbviewer.jupyter.org/github/aced-differentiate/MHC_DOS/blob/master/dataviz.ipynb): Note that this can take quite awhile to load!
